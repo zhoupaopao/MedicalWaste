@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">智能医废手推车</string>
+    <string name="tip">提示</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="status_error">状态获取异常</string>
+    <string name="status_fail">打印机状态获取失败，请检查打印机是否缺纸或开盖</string>
+    <string name="status_normal">状态正常</string>
+    <string name="status_feed">状态走纸、打印</string>
+    <string name="status_out_of_paper">状态缺纸</string>
+    <string name="status_open">状态开盖</string>
+    <string name="status_overheated">状态过热</string>
+    <string name="conn_first">请先连接打印机</string>
+    <string name="not_connected">未连接</string>
+    <string name="conn_fail">连接失败</string>
+    <string name="conn_success">连接成功</string>
+    <string name="conning">连接中...</string>
+    <string name="checking">查询中...</string>
+    <string name="conned">已连接</string>
+    <string name="print_success">打印成功</string>
+    <string name="print_fail">打印失败</string>
+    <string name="send_success">发送成功</string>
+    <string name="send_fail">发送失败</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HookCheckBox">
+        <!-- 选中时圆的颜色 -->
+        <attr name="hcb_check_circle_color" format="color" />
+        <!-- 未选中时圆的颜色 -->
+        <attr name="hcb_uncheck_circle_color" format="color" />
+        <!-- 选中时的钩子的颜色 -->
+        <attr name="hcb_check_hook_color" format="color" />
+        <!-- 未选中时的钩子的颜色 -->
+        <attr name="hcb_uncheck_hook_color" format="color" />
+        <!-- 是否选中 -->
+        <attr name="hcb_is_check" format="boolean" />
+        <!-- 风格 -->
+        <attr name="hcb_style" format="enum">
+            <!-- 普通，对勾是有颜色的 -->
+            <enum name="normal" value="1" />
+            <!-- 镂空，就是对勾是透明的 -->
+            <enum name="hollow_out" value="2" />
+        </attr>
+        <!-- 线宽 -->
+        <attr name="hcb_line_width" format="float|dimension|reference" />
+    </declare-styleable>
+
+    <!--    一行文字，两个textview组成，颜色不同-->
+    <declare-styleable name="WidgetTextMsg">
+        <attr name="wtm_left" format="string" />
+        <attr name="wtm_right" format="string" />
+        <attr name="wtm_textsize" format="dimension|reference" />
+        <attr name="wtm_right_color" format="color|reference" />
+        <attr name="wtm_left_color" format="color|reference" />
+        <attr name="wtm_bold" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="WidgetArrowTitle">
+        <attr name="wat_title" format="string" />
+    </declare-styleable>
+    <declare-styleable name="WidgetTextDetail">
+        <attr name="wtd_text" format="string" />
+        <attr name="wtd_height" format="dimension|reference" />
+    </declare-styleable>
+    <!-- 自定义验证码-->
+    <declare-styleable name="VerificationCodeView">
+        <!--输入框的数量-->
+        <attr name="vcv_code_number" format="integer" />
+        <!--单个验证码的宽度-->
+        <attr name="vcv_code_width" format="dimension|reference" />
+        <!--输入框文字颜色-->
+        <attr name="vcv_code_color" format="color|reference" />
+        <!--输入框文字大小-->
+        <attr name="vcv_code_size" format="dimension|reference" />
+        <!--输入框获取焦点时边框-->
+        <attr name="vcv_code_bg_focus" format="reference" />
+        <!--输入框没有焦点时边框-->
+        <attr name="vcv_code_bg_normal" format="reference" />
+        <!--是否展示密码样式-->
+        <attr name="vcv_code_input_style" format="boolean" />
+    </declare-styleable>
+</resources>

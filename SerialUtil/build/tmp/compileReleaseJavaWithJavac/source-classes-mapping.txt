@@ -1,0 +1,51 @@
+com/easy/tech/serialutil/assist/ConvertUtil.java
+ com.easy.tech.serialutil.assist.ConvertUtil
+com/easy/tech/serialutil/engine/SerialEngine.java
+ com.easy.tech.serialutil.engine.SerialEngine
+ com.easy.tech.serialutil.engine.SerialEngine$1
+ com.easy.tech.serialutil.engine.SerialEngine$Builder
+ com.easy.tech.serialutil.engine.SerialEngine$OnDataReceiveListener
+ com.easy.tech.serialutil.engine.SerialEngine$OnReadTaskStoppedListener
+ com.easy.tech.serialutil.engine.SerialEngine$Status
+com/easy/tech/serialutil/BuildConfig.java
+ com.easy.tech.serialutil.BuildConfig
+com/easy/tech/serialutil/assist/ByteUtil.java
+ com.easy.tech.serialutil.assist.ByteUtil
+com/easy/tech/serialutil/engine/NativeSerialEngine.java
+ com.easy.tech.serialutil.engine.NativeSerialEngine
+com/easy/tech/serialutil/serialdevices/SerialPort_ttyS2.java
+ com.easy.tech.serialutil.serialdevices.SerialPort_ttyS2
+com/easy/tech/serialutil/configs/LogConfig.java
+ com.easy.tech.serialutil.configs.LogConfig
+com/easy/tech/serialutil/serialdevices/UA570HP_ttyS0.java
+ com.easy.tech.serialutil.serialdevices.UA570HP_ttyS0
+com/easy/tech/serialutil/assist/SystemPropertiesUtil.java
+ com.easy.tech.serialutil.assist.SystemPropertiesUtil
+com/easy/tech/serialutil/serialdevices/RFNew2_ttyS2.java
+ com.easy.tech.serialutil.serialdevices.RFNew2_ttyS2
+com/easy/tech/serialutil/serialdevices/uis7862s_1h10_Natv_ttyS0.java
+ com.easy.tech.serialutil.serialdevices.uis7862s_1h10_Natv_ttyS0
+com/easy/tech/serialutil/serialdevices/SerialDevice.java
+ com.easy.tech.serialutil.serialdevices.SerialDevice
+com/easy/tech/serialutil/engine/SerialEngineParameter.java
+ com.easy.tech.serialutil.engine.SerialEngineParameter
+com/easy/tech/serialutil/SerialDeviceManager.java
+ com.easy.tech.serialutil.SerialDeviceManager
+com/easy/tech/serialutil/engine/SerialFileDescriptor.java
+ com.easy.tech.serialutil.engine.SerialFileDescriptor
+com/easy/tech/serialutil/serialdevices/SerialPort_ttyS0.java
+ com.easy.tech.serialutil.serialdevices.SerialPort_ttyS0
+com/easy/tech/serialutil/serialdevices/ISerialDeviceStrategy.java
+ com.easy.tech.serialutil.serialdevices.ISerialDeviceStrategy
+com/easy/tech/serialutil/serialdevices/AlphaB_ttyS0.java
+ com.easy.tech.serialutil.serialdevices.AlphaB_ttyS0
+com/easy/tech/serialutil/serialdevices/RFNew2_ttyS0.java
+ com.easy.tech.serialutil.serialdevices.RFNew2_ttyS0
+com/easy/tech/serialutil/configs/SerialConfig.java
+ com.easy.tech.serialutil.configs.SerialConfig
+com/easy/tech/serialutil/serialdevices/AlphaB_ttyS2.java
+ com.easy.tech.serialutil.serialdevices.AlphaB_ttyS2
+com/easy/tech/serialutil/serialdevices/SerialDeviceFactory.java
+ com.easy.tech.serialutil.serialdevices.SerialDeviceFactory
+ com.easy.tech.serialutil.serialdevices.SerialDeviceFactory$1
+ com.easy.tech.serialutil.serialdevices.SerialDeviceFactory$HOLDER
